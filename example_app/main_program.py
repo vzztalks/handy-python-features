@@ -1,6 +1,8 @@
-from example_app import decorators_demo
+import example_app.decorators_demo as decorators_demo
+
+
 
 def run():
-    decorators_demo.private_method_check()
+    decorators_demo.private_function_check()
 
 

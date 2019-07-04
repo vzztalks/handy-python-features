@@ -1,1 +1,1 @@
-from . import private_function
+from .private_function_dec import private_function

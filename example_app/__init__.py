@@ -1,1 +1,1 @@
-from . import decorators_demo
+from .main_program import run
