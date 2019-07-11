@@ -1,1 +1,2 @@
 from .private_function_check import private_function_check
+from .singleton_check import singleton_check
